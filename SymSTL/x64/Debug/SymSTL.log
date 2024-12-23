@@ -1,0 +1,4 @@
+﻿  main.cpp
+G:\MySTL\SymSTL\Vector.h(150,65): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\MySTL\SymSTL\Vector.h(110,23): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  SymSTL.vcxproj -> G:\MySTL\x64\Debug\SymSTL.exe
